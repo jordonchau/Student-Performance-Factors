@@ -19,6 +19,11 @@ Juypter Notebook screenshots of charts here:
 
 https://github.com/jordonchau/Student-Performance-Factors/blob/main/JupyterNotebook.md
 
+PowerBI Dashboard can be viewed here: 
 
+https://github.com/jordonchau/Student-Performance-Factors/blob/main/PowerBI%20Dashboard.md
 
-![image](https://github.com/user-attachments/assets/26431f69-7ee1-4f81-b903-8920c23dc3eb)
+Official Written Report can be viewed here:
+
+https://docs.google.com/document/d/1V5zUHtaeEERmKKAaWKW3bP6nQRa8d0Toi7f2s5NsFM4/edit?usp=sharing
+
