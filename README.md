@@ -15,7 +15,8 @@ The studied data source is from Kaggle
 - PowerBI (Used for creating an interactive dashboard)
 - Google Docs (Used for written report of project)
 
-Juypter Notebook screenshots of charts below:
+Juypter Notebook screenshots of charts here:
+
 https://github.com/jordonchau/Student-Performance-Factors/blob/main/JupyterNotebook.md
 
 
