@@ -1,6 +1,7 @@
 # Student-Performance-Factors
 
-#Project Overview
+Project Overview
+
 The ultimate objective of this analysis is to identify which factors contribute more to higher exam scores.
 
 ![image](https://github.com/user-attachments/assets/d58dd438-2c31-4be6-ac44-ffe951c67b4e)
