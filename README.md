@@ -16,6 +16,7 @@ The studied data source is from Kaggle
 - Google Docs (Used for written report of project)
 
 Juypter Notebook screenshots of charts below:
+https://github.com/jordonchau/Student-Performance-Factors/blob/main/JupyterNotebook.md
 
 
 
