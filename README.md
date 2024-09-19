@@ -1,8 +1,19 @@
 # Student-Performance-Factors
 
-# Project Overview
+### Project Overview
 
 The ultimate objective of this analysis is to identify which factors contribute more to higher exam scores.
+
+### Data Source
+
+The studied data source is from Kaggle
+
+### Tools Used
+
+- Juypter Notebook
+- Pandas, Matplotlib, Seaborn (Generate charts)
+- PowerBI (Used for creating an interactive dashboard)
+- Google Docs (Used for written report of project)
 
 ![image](https://github.com/user-attachments/assets/d58dd438-2c31-4be6-ac44-ffe951c67b4e)
 
